@@ -1,0 +1,29 @@
+{
+  "name": "gulp-browserify-neat",
+  "version": "0.0.1",
+  "description": "",
+  "author": "porx",
+  "license": "ISC",
+  "devDependencies": {
+    "bourbon": "^5.0.0-beta.8",
+    "bourbon-neat": "^2.1.0",
+    "browser-sync": "^1.9.2",
+    "browserify": "^14.4.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-util": "^3.0.8",
+    "gulp-watch": "^4.3.11",
+    "handlebars": "^1.3.0",
+    "hbsfy": "^2.7.0",
+    "install": "^0.10.1",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-uglify": "^3.0.0"
+  }
+}
